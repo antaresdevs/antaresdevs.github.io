@@ -1,0 +1,22 @@
+h2{
+	text-align: center;
+	color: #d4444a;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin: 20px 0 35px 0;	
+
+}
+
+h3{
+	color: #169190;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin: 15px 0 5px 0;	
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #676161;
+    margin: 1em 0;
+    padding: 0;
+}
